@@ -122,16 +122,4 @@ http://127.0.0.1:8000/
 
 ## Author
 
-### Raman Suvekha
-
-B.Tech – Computer Science and Engineering
-
-Data Analyst | Python | SQL | Power BI
-
-LinkedIn:
-www.linkedin.com/in/raman-suvekha
-
-GitHub:
-https://github.com/suvekha1819
-
----
+### Thotakura Jayanth
